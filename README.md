@@ -2,13 +2,13 @@ This directory contains data, main programs, and output of the analyses of CMV c
 
 Specifically, the directory contains:
 
-1-The serrological data ('xxx.csv'). Each line is a participant, and columns refer to age (in months), sex, and (untransformed) antibody measurement.
+1-The serological data ('data.csv'). Each line is a participant, and columns include age in months ('lftinmnd2'), sex, ethnicity ('nl'), and antibody measurements (last column).
 
 2-The contact matrix and demographic composition of the population ('contact intensities aggregated.csv'). See van de Kasteele et al (2016) Efficient estimation of age-specific social contact rates between men and women, accepted for publication in the Annals of Applied Statistics.
 
 3-An R script ('xxx.r') for the multinomial logistic model. mention version R and script.
 
-4-A Mathematica program ('xxx.nb') for the analyses with the transmission model. mention version 
+4-A stripped-down Mathematica program ('estimation.nb') for the analyses with the transmission model. mention version 
 
 5-Output of the multinomial logistic regression analyses ('xxx.csv') and ('xxx.csv'). Figures 1-3 in the manuscript are made using this output.
 
