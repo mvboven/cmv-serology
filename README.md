@@ -4,7 +4,7 @@ Specifically, the directory contains:
 
 1-The serological data ('data.csv'). Each line is a participant, and columns include age in months ('lftinmnd2'), sex, ethnicity ('nl'), and antibody measurements (last column).
 
-2-The contact matrix and demographic composition of the population ('contact intensities aggregated.csv'). See van de Kasteele et al (2016) Efficient estimation of age-specific social contact rates between men and women, accepted for publication in the Annals of Applied Statistics.
+2-The contact matrix and demographic composition of the population ('contact intensities aggregated.csv'). See for notation van de Kasteele et al (2016) Efficient estimation of age-specific social contact rates between men and women, accepted for publication in the Annals of Applied Statistics.
 
 3-An R script ('xxx.r') for the multinomial logistic model. mention version R and script.
 
