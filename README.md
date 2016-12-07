@@ -12,6 +12,6 @@ Specifically, the directory contains:
 
 5-Output of the multinomial logistic regression analyses ('xxx.csv') and ('xxx.csv'). Figures 1-3 in the manuscript are made using this output.
 
-6-Output of the MCMC output of the transmission model analyses ('xxx.csv'). ///
+6-Output of the MCMC output of the transmission model analyses ('scenario1.csv' and 'scenario2.csv').
 
 7-A directory with a Python/STAN model for alternative analyses of the data using the transmission model. The code is musch faster than the Mathematica code and yields identical results, but is formally an approximation to the exact analyses in the Mathematica program.
