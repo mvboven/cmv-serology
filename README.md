@@ -6,12 +6,12 @@ Specifically, the directory contains:
 
 2-The contact matrix and demographic composition of the population ('contact intensities aggregated.csv'). See for notation van de Kasteele et al (2016) Efficient estimation of age-specific social contact rates between men and women, accepted for publication in the Annals of Applied Statistics.
 
-3-An R script ('xxx.r') for the multinomial logistic model. mention version R and script.
+3-An R script ('multinomiallogit.R') for the multinomial logistic model. This script still needs to be streamlined (08/12/2016).
 
 4-A stripped-down Mathematica 10.0 program ('estimation (07122017).nb') for the analyses with the transmission model.  
 
 5-Output of the multinomial logistic regression analyses ('p_neg_M.csv' for the posterior of the seroprevalence of the negative component in males, 'p_boo.csv' for the the posterior of the seroprevalence of the component of increased antibodies, etcetera). Figures 1-3 in the manuscript are made using this output. See the R script for details.
 
-6-Output of the MCMC output of the transmission model analyses ('scenario1.csv' and 'scenario2.csv'). See the Mathemtica program details.
+6-Output of the MCMC output of the transmission model analyses ('scenario1.csv' and 'scenario2.csv'). See the Mathematica program details.
 
 7-A directory with a Python/STAN model for alternative analyses of the data using the transmission model. The code is musch faster than the Mathematica code and yields identical results, but is formally an approximation to the exact analyses in the Mathematica program. [TO BE COMPLETED]
