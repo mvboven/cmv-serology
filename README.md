@@ -14,4 +14,4 @@ Specifically, the directory contains:
 
 6-Output of the MCMC output of the transmission model analyses ('scenario1.csv' and 'scenario2.csv'). See the Mathematica program details.
 
-7-A directory with a Python/STAN model for alternative analyses of the data using the transmission model. The code is musch faster than the Mathematica code and yields identical results, but is formally an approximation to the exact analyses in the Mathematica program. [TO BE COMPLETED]
+7-A directory with a Python/STAN model for alternative analyses of the data using the transmission model. The code is formally an approximation but much faster than the Mathematica program and yields identical results. [TO BE COMPLETED]
