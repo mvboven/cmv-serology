@@ -12,6 +12,6 @@ Specifically, the directory contains:
 
 5-Output of the multinomial logistic regression analyses ('p_neg_M.csv' for the posterior of the seroprevalence of the negative component in males, 'p_boo.csv' for the the posterior of the seroprevalence of the component of increased antibodies, etcetera). Figures 1-3 in the manuscript are made using this output. See the R script for details.
 
-6-Output of the MCMC output of the transmission model analyses ('scenario1.csv' and 'scenario2.csv'). See the Mathematica program details.
+6-Output of the MCMC output of the transmission model analyses ('scenario1.csv' and 'scenario2.csv'). See the Mathematica program for details.
 
 7-A directory with a Python/STAN model for alternative analyses of the data using the transmission model. The code is formally an approximation but much faster than the Mathematica program and yields identical results. [TO BE COMPLETED]
