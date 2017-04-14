@@ -14,4 +14,4 @@ Specifically, the directory contains:
 
 6-Output of the MCMC output of the transmission model analyses ('scenario1.csv' and 'scenario2.csv'). See the Mathematica program for details.
 
-7-A zip file with an R/STAN model for alternative analyses of the data using the transmission model (14/04/2017). The code is drafted by Christiaan van Dorp and Sophia de Jong, much faster than the Mathematica program, and yields identical results. Updates and extensions will be posted.
+7-A zip file with an R/STAN model for alternative analyses of the data using the transmission model ('cmv_gender.zip'). The code is drafted by Christiaan van Dorp and Sophia de Jong, much faster than the Mathematica program, and yields identical results. Updates and extensions will be posted.
