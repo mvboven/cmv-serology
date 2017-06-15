@@ -2,7 +2,7 @@ This directory contains data, scripts/programs, and output of a study into the p
 
 Specifically, the directory contains:
 
-1-The serological data ('data.csv'). Each line is a participant, and columns include age in months ('lftinmnd2'), sex, ethnicity ('nl'), and antibody measurements (last column).
+1-The serological data ('cmvdata.csv'). Each line is a participant, and columns include age in months ('lftinmnd2'), sex, ethnicity ('nl'), and antibody measurements (last column).
 
 2-The contact matrix and demographic composition of the population ('contact intensities aggregated.csv'). See for notation van de Kasteele et al (2016) Efficient estimation of age-specific social contact rates between men and women, accepted for publication in the Annals of Applied Statistics.
 
@@ -14,4 +14,4 @@ Specifically, the directory contains:
 
 6-Output of the MCMC output of the transmission model analyses ('scenario1.csv' and 'scenario2.csv'). See the Mathematica program for details.
 
-7-A zip file with an R/STAN model for alternative analyses of the data using the transmission model ('cmv_gender.zip'). The code is drafted by Christiaan van Dorp and Sophia de Jong, much faster than the Mathematica program, and yields identical results. Updates and extensions will be posted.
+*updated 15062017* 7-An R/Stan model for alternative analyses of the data using the transmission model ('cmvmodel (15062017).stan' and 'cmvmodel (15062017).R'). The code is drafted by Christiaan van Dorp, Sophia de Jong, and Michiel van Boven. This method is much faster than the Mathematica program, and yields identical results.
