@@ -14,4 +14,6 @@ Specifically, the directory contains:
 
 6-Output of the MCMC output of the transmission model analyses ('scenario1.csv' and 'scenario2.csv'). See the Mathematica program for details.
 
-*updated 15062017* 7-An R/Stan model for alternative analyses of the data using the transmission model ('cmvmodel (15062017).stan' and 'cmvmodel (15062017).R'). The code is drafted by Christiaan van Dorp, Sophia de Jong, and Michiel van Boven. This method is much faster than the Mathematica program, and yields identical results.
+Updated 15/06/2017: 7-An R/Stan model for alternative analyses of the data using the transmission model ('cmvmodel (15062017).stan' and 'cmvmodel (15062017).R'). The code is drafted by Christiaan van Dorp, Sophia de Jong, and Michiel van Boven. This method is much faster than the Mathematica program, and yields identical results.
+
+Updated 20/062017: 8-A csv file containing posterior parameter estimates (5000 samples) for each of models A-G described in the revised manuscript (Table 1). Figures 5-6 and Table 2 are based on these outputs.
