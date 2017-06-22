@@ -1,4 +1,4 @@
-This directory contains data, scripts/programs, and output of a study into the population dynamics of antibodies against cytomegalovirus ('Infectious reactivation of cytomegalovirus explaining age- and sex-specific patterns of seroprevalence' by Michiel van Boven, Jan van de Kassteele, Marjolein korndewal, Christiaan van Dorp, Mirjam Kretzschmar, Fiona van der Klis, Hester de Melker, Ann Vossen, and Debbie van Baarle).
+This directory contains data, scripts/programs, and output of a study into the population dynamics of antibodies against cytomegalovirus ('Infectious reactivation of cytomegalovirus explaining age- and sex-specific patterns of seroprevalence' by Michiel van Boven, Jan van de Kassteele, Marjolein korndewal, Christiaan van Dorp, Mirjam Kretzschmar, Fiona van der Klis, Hester de Melker, Ann Vossen, and Debbie van Baarle). See http://biorxiv.org/content/early/2017/01/24/102491 for a preprint.
 
 Specifically, the directory contains:
 
