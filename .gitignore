@@ -1,4 +1,6 @@
-# hidden files (except this file)
+## hidden files (except this file)
 .*
 !.gitignore
 
+## figures
+*.pdf
