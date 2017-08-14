@@ -169,6 +169,7 @@ model {
 	}
   	
     // penalise the difference between lambda and lambda_hat
+    // TODO: lambda_f - lambda_hat_f ~ normal(0,1/Penalty) gives a warning: do target += log(det(Jacobian))
     lambda_f ~ normal(lambda_hat_f, 1/Penalty);
     lambda_m ~ normal(lambda_hat_m, 1/Penalty);
         
