@@ -8,7 +8,7 @@ rstan_options(auto_write = TRUE)
 options(mc.cores = parallel::detectCores())
 
 ### import CMV data: Titers, Sexes, Ages ###
-cmvdata <- read_csv("data/cmvdatanew.csv")
+cmvdata <- read_csv("data/cmvdata.csv")
 
 # filter non-western subjects
 cmvdata <- cmvdata[cmvdata$nl == '1',]
